@@ -1,0 +1,29 @@
+.headerone{
+    background-color: #e8f0f7;
+    width: 100%;
+    height: 3em;
+    
+}
+
+.headerone__container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: flex-end;
+}
+
+
+
+.headerone__title{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-right: 2em;
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+}
+
+.headerone__icon{
+    font-size: 100px;
+}
